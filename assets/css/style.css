@@ -90,13 +90,13 @@ html {
   color: #bbc;
 }
 
-#nate-image {
+#auth-image {
   /* Positioning */
   float: left;
 
   /* Box-model */
   width: 200px;
-  height: 200px;
+  height: 240px;
   margin-top: 20px;
   margin-right: 20px;
 }
