@@ -1,6 +1,6 @@
-* {
+/** {
 	box-sizing: border-box;
-}
+}*/
 
 body {
 	/*Visual*/
@@ -40,7 +40,6 @@ html {
   color: #fff;
 	font-weight: 700;
   font-size: 28px;
-	text-decoration: none;
 }
 
 
@@ -180,6 +179,7 @@ footer {
 
 /* Contact Me form */
 .contact-form {
+	clear: both;
   width: 100%;
 
   /* Box-model */
