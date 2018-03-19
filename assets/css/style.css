@@ -251,12 +251,11 @@ footer {
 #portfolio-area {
   /* Box-model */
   width: 85%;
-  padding: 45px 10px 25px 31px;
-  height: 750px;
+  padding: 45px 10px 25px 25px;
 
   /* Positioning */
   margin-top: 30px;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 
   /* Visual */
   background-color: #fff;
@@ -325,9 +324,5 @@ footer {
 
     /* Visual */
     background: #4aaaa5;
-  }
 
-  #portfolio-area {
-    height: 1000px;
   }
-}
